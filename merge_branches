@@ -1,0 +1,6 @@
+$ git merge bug-fix-typo
+Updating 4dc1eaf..3b7c70f
+Fast-forward
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+
